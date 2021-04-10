@@ -14,7 +14,6 @@ This application is covered by the Mozilla license.
 - [Questions](#Questions)
 
 ## Description  :clipboard:
-* This is a budget tracker that users can use on the go, whether with internet access or not. All additions to the tracker while offline will populate when users come back online
 
 ### User Story
 
