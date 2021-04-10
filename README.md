@@ -32,6 +32,7 @@ There is no installation for this project
 
 ## Usage :warning:
 Go to the following site to view/play with the deployed version of this app:
+https://peter-izzo.github.io/Employee-Directory/
 <br>
 
 ## License :scroll:
